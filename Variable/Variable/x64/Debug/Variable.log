@@ -1,2 +1,16 @@
 ﻿  helloworld.c
-  Variable.vcxproj -> D:\study\code\cpp\LearnCpp\LearnC\Variable\x64\Debug\Variable.exe
+D:\study\code\cpp\LearnCpp\LearnC\Variable\Variable\helloworld.c(9,2): warning C4013: “system”未定义；假设外部返回 int
+D:\study\code\cpp\LearnCpp\LearnC\Variable\Variable\helloworld.c(25,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+D:\study\code\cpp\LearnCpp\LearnC\Variable\Variable\helloworld.c(27,7): error C2065: “mov”: 未声明的标识符
+D:\study\code\cpp\LearnCpp\LearnC\Variable\Variable\helloworld.c(27,7): error C2146: 语法错误: 缺少“;”(在标识符“a”的前面)
+D:\study\code\cpp\LearnCpp\LearnC\Variable\Variable\helloworld.c(28,7): error C2065: “mov”: 未声明的标识符
+D:\study\code\cpp\LearnCpp\LearnC\Variable\Variable\helloworld.c(28,7): error C2146: 语法错误: 缺少“;”(在标识符“b”的前面)
+D:\study\code\cpp\LearnCpp\LearnC\Variable\Variable\helloworld.c(29,7): error C2065: “mov”: 未声明的标识符
+D:\study\code\cpp\LearnCpp\LearnC\Variable\Variable\helloworld.c(29,7): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+D:\study\code\cpp\LearnCpp\LearnC\Variable\Variable\helloworld.c(29,10): error C2065: “eax”: 未声明的标识符
+D:\study\code\cpp\LearnCpp\LearnC\Variable\Variable\helloworld.c(30,7): error C2065: “add”: 未声明的标识符
+D:\study\code\cpp\LearnCpp\LearnC\Variable\Variable\helloworld.c(30,7): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+D:\study\code\cpp\LearnCpp\LearnC\Variable\Variable\helloworld.c(30,10): error C2065: “eax”: 未声明的标识符
+D:\study\code\cpp\LearnCpp\LearnC\Variable\Variable\helloworld.c(31,7): error C2065: “mov”: 未声明的标识符
+D:\study\code\cpp\LearnCpp\LearnC\Variable\Variable\helloworld.c(31,7): error C2146: 语法错误: 缺少“;”(在标识符“c”的前面)
+D:\study\code\cpp\LearnCpp\LearnC\Variable\Variable\helloworld.c(31,13): error C2065: “eax”: 未声明的标识符
