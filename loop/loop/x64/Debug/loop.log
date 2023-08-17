@@ -1,2 +1,3 @@
 ﻿  loop.c
+D:\study\code\cpp\LearnCpp\LearnC\loop\loop\loop.c(76,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
   loop.vcxproj -> D:\study\code\cpp\LearnCpp\LearnC\loop\x64\Debug\loop.exe
