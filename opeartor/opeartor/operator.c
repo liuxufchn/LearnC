@@ -24,7 +24,10 @@ int main01()
 
 int main(void)
 {
-	char c = 'a';
+	char str[5] = { 'h', 'e', 'l', 'l', 'o' };
+	char test[] = "lksjdlfkajsldkjflsjdlfjsldjfklsdfjlsdf";
+
+	printf("str = %s\n", str); // str = helloÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌlksjdlfkajsldkjflsjdlfjsldjfklsdfjlsdf
 
 	return 0;
 }
